@@ -1,3 +1,5 @@
+audio wav 插入 adm 元数据工具,生成 bw64 wav文件
+
 # libbw64_utils
 
 # 1. build
